@@ -1,1 +1,1 @@
-function addNumber(a, b) => a + b;
+function deductNumber(a, b) => a - b;
